@@ -2,9 +2,9 @@
 * Proyecto integrador desarrollado en el curso de Programación Full Stack de Digital House.
 
 ## REALIZADO POR:
-* Sebastián Navarro. [LINK A PERFIL DE GITHUB](https://github.com/sebanavarro)
-* Nicolás Caballero. [LINK A PERFIL DE GITHUB](https://github.com/nicolasCaballero)
-* Facundo Ruiz. [LINK A PERFIL DE GITHUB](https://github.com/RuizFacu)
+* Sebastián Navarro. [GitHub Profile](https://github.com/sebanavarro)
+* Nicolás Caballero. [GitHub Profile](https://github.com/nicolasCaballero)
+* Facundo Ruiz. [GitHub Profile](https://github.com/RuizFacu)
 
 
 ## PASOS PARA INICIAR EL PROYECTO
